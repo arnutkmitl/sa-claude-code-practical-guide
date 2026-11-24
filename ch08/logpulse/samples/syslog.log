@@ -1,0 +1,120 @@
+Nov  5 06:00:21 web01 CRON[7691]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:00:34 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:01:34 web01 nginx[6426]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:02:33 web01 sshd[6442]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 06:02:46 web01 systemd[1923]: Starting Rotate log files...
+Nov  5 06:04:19 web01 systemd[2692]: Started Daily apt download activities.
+Nov  5 06:04:33 web01 systemd[8040]: Starting Rotate log files...
+Nov  5 06:06:29 web01 CRON[7985]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:07:57 web01 sshd[1598]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 06:08:39 web01 CRON[2749]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:09:03 web01 systemd[4193]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 06:09:28 web01 sshd[4206]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 06:10:59 web01 nginx[7789]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:11:23 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:12:53 web01 nginx[4263]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:13:40 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:15:08 web01 systemd[4241]: Starting Rotate log files...
+Nov  5 06:16:11 web01 CRON[1702]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:16:29 web01 nginx[8612]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:17:28 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:18:59 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 06:19:41 web01 sshd[6150]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 06:20:35 web01 CRON[1998]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:21:02 web01 sshd[6072]: Connection closed by 192.0.2.77 port 40022
+Nov  5 06:21:55 web01 CRON[7912]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:23:25 web01 CRON[2509]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 06:25:06 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:25:53 web01 CRON[1017]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 06:26:08 web01 systemd[5380]: Starting Rotate log files...
+Nov  5 06:27:08 web01 nginx[8056]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:27:22 web01 CRON[4987]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:29:22 web01 sshd[5738]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 06:29:47 web01 systemd[7459]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 06:31:32 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 06:32:25 web01 CRON[8429]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:33:22 web01 nginx[4669]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:35:05 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:36:10 web01 nginx[3256]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:37:01 web01 sshd[1611]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 06:38:35 web01 systemd[5321]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 06:40:02 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:41:40 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 06:42:47 web01 sshd[6076]: Connection closed by 192.0.2.77 port 40022
+Nov  5 06:43:52 web01 systemd[1239]: Started Daily apt download activities.
+Nov  5 06:45:27 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 06:46:42 web01 CRON[810]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 06:48:40 web01 nginx[7479]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:49:06 web01 sshd[4166]: Connection closed by 192.0.2.77 port 40022
+Nov  5 06:50:02 web01 systemd[6572]: Starting Rotate log files...
+Nov  5 06:50:16 web01 nginx[2813]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 06:51:13 web01 systemd[7573]: Started Daily apt download activities.
+Nov  5 06:52:36 web01 CRON[8974]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:53:36 web01 systemd[4866]: Started Daily apt download activities.
+Nov  5 06:54:00 web01 sshd[3348]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 06:55:16 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 06:55:59 web01 systemd[7611]: Started Daily apt download activities.
+Nov  5 06:57:27 web01 systemd[8347]: Started Daily apt download activities.
+Nov  5 06:57:52 web01 CRON[1513]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 06:58:24 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 07:00:17 web01 systemd[5992]: Starting Rotate log files...
+Nov  5 07:00:35 web01 nginx[5057]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:02:33 web01 CRON[3152]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 07:03:48 web01 CRON[2288]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 07:05:39 web01 CRON[4178]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 07:05:52 web01 systemd[6344]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:07:44 web01 nginx[2426]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:08:02 web01 systemd[6823]: Starting Rotate log files...
+Nov  5 07:09:44 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 07:11:32 web01 kernel: EXT4-fs (sda1): mounted filesystem
+Nov  5 07:11:58 web01 systemd[1515]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:13:07 web01 nginx[5944]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:15:03 web01 nginx[3281]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:16:08 web01 nginx[1207]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:17:24 web01 CRON[5282]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 07:17:54 web01 systemd[3994]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:19:10 web01 systemd[1592]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:19:45 web01 nginx[4796]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:21:15 web01 systemd[1830]: Starting Rotate log files...
+Nov  5 07:22:47 web01 CRON[2826]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 07:24:21 web01 nginx[5831]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:26:16 web01 sshd[1630]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 07:27:48 web01 nginx[4636]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:29:36 web01 nginx[7125]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:30:49 web01 nginx[5045]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:32:00 web01 CRON[6953]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 07:33:08 web01 sshd[1281]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 07:34:14 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 07:35:23 web01 CRON[5873]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 07:36:13 web01 systemd[5958]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:36:39 web01 systemd[8737]: Starting Rotate log files...
+Nov  5 07:37:02 web01 systemd[4260]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:37:27 web01 systemd[7666]: Started Daily apt download activities.
+Nov  5 07:37:55 web01 sshd[1129]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 07:38:54 web01 nginx[7150]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:40:54 web01 CRON[5664]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 07:41:28 web01 CRON[8463]: (www-data) CMD (php /var/www/app/cron.php)
+Nov  5 07:42:41 web01 systemd[8448]: Started Daily apt download activities.
+Nov  5 07:43:02 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 07:43:42 web01 CRON[6081]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 07:43:58 web01 systemd[8408]: Starting Rotate log files...
+Nov  5 07:45:55 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 07:47:13 web01 sshd[2061]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 07:47:40 web01 systemd[6292]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:48:36 web01 sshd[6863]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 07:49:58 web01 nginx[3489]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:51:18 web01 systemd[1504]: nginx.service: Main process exited, status=1/FAILURE
+Nov  5 07:52:32 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 07:54:27 web01 nginx[2246]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:54:49 web01 kernel: Out of memory: Killed process 2211 (php-fpm)
+Nov  5 07:56:40 web01 systemd[6290]: Started Daily apt download activities.
+Nov  5 07:57:15 web01 nginx[8641]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 07:58:29 web01 sshd[1042]: Accepted publickey for deploy from 203.0.113.20 port 51122
+Nov  5 07:58:56 web01 systemd[8061]: Starting Rotate log files...
+Nov  5 08:00:04 web01 CRON[8746]: (root) CMD (/usr/local/bin/backup.sh)
+Nov  5 08:00:55 web01 nginx[5518]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 08:01:55 web01 nginx[5202]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 08:03:09 web01 nginx[8325]: upstream timed out (110: Connection timed out) while reading response header from upstream
+Nov  5 08:04:19 web01 sshd[6335]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2
+Nov  5 08:05:55 web01 sshd[7124]: Connection closed by 192.0.2.77 port 40022
+Nov  5 08:06:44 web01 sshd[8075]: Failed password for invalid user admin from 192.0.2.77 port 40022 ssh2

@@ -1,0 +1,2 @@
+# Only for tools/mcp_server.py. logpulse itself has no runtime dependencies.
+mcp>=2.3,<3
